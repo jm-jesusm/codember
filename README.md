@@ -1,8 +1,10 @@
-# Codember
+<h1><a href="https://codember.dev/" target="_blank">Codember</a></h1>
 
-![Alt Text](img/codember.jpg)
+<a href="https://codember.dev/" target="_blank"><img src="img/codember.jpg" alt="Codember landing screenshot"></a>
 
-### <center>TypeScript solved challenges</center>
+<h3>TypeScript solved challenges</h3>
+
+<h5> Codember, a @midudev project</h5>
 
 ---
 
@@ -14,4 +16,3 @@ CHALLENGE_02.txt
 data
 private 🔐
 ```
-
