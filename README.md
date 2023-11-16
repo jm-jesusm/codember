@@ -1,7 +1,8 @@
 # Codember
-### TypeScript solved challenges
 
 ![Alt Text](img/codember.jpg)
+
+### <center>TypeScript solved challenges</center>
 
 ---
 
