@@ -1,6 +1,6 @@
 <h1><a href="https://codember.dev/" target="_blank">Codember</a></h1>
 
-<a href="https://codember.dev/" target="_blank" align="center"><img src="img/codember.jpg" alt="Codember landing screenshot"></a>
+<a href="https://codember.dev/" target="_blank"><img src="img/codember.jpg" alt="Codember landing screenshot" align="center"></a>
 
 <h3>TypeScript solved challenges</h3>
 
