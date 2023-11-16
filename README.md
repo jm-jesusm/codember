@@ -4,9 +4,11 @@
 
 <h3>TypeScript solved challenges</h3>
 
-<h5>Codember, a @midudev project</h5>
+<h5>Codember, a <a href="https://github.com/midudev" target="_blank">@midudev</a> project</h5>
 
 ---
+
+### CHALLENGES
 
 ```console
 $ ls
@@ -16,6 +18,8 @@ CHALLENGE_02.txt
 data
 private 🔐
 ```
+
+##### CHALLENGE 1
 
 ```console
 $ cat CHALLENGE_01.txt
