@@ -14,3 +14,4 @@
 | :-------: | :--------------------------------------------------------------------------: |
 |    #01    | [Spy message](src/challenge_01.ts) |
 |    #02    | [Mini compiler](src/challenge_02.ts) |
+|    #03    | [Index of the wrong password](src/challenge_03.ts) |
